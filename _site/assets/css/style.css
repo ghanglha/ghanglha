@@ -121,7 +121,9 @@ h1,h2,h3,h4,h5,h6,span{
     .thumbnail-img{
         width:200px;height:200px;
         border-radius: 50%;
-        background-color: rebeccapurple;
+        background-color: rgb(67, 59, 75);
+        background-image: url(/assets/icons/ghanglha-avatar-pp.png);
+        background-size: 200px;
     }
     .card-wide{
         display: grid;
