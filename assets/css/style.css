@@ -154,6 +154,7 @@ h1,h2,h3,h4,h5,h6,span{
 /* --------------------- blog and page section ------- */
 .blog-container{
     height:200px;
+    border-radius: 0px;
 }
 .blog-container .banner-featured{
     margin: 40px auto;
@@ -277,7 +278,7 @@ td{ width:100px;
         }
 
       article{
-        padding:30px;
+        padding:10px;
       }
     
       .container{width:100vw}
