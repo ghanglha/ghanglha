@@ -1,0 +1,24 @@
+# Site settings
+title: ghanglha
+email: om
+description: ""
+logo_location: ""
+gatag: 
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+#Other Global Configuration
+
+
+excerpt_separator: <!--more-->
+
+#show the jumbotron header on index page
+show_blog_header: true
