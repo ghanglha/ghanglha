@@ -21,7 +21,7 @@
         *{font-weight: 100;
         transition: .2s;
         margin:0px;
-        border-radius: 10px;;
+        
         }
 h1,h2,h3,h4,h5,h6,span{
     color:#95a3bd;
@@ -129,6 +129,7 @@ h1,h2,h3,h4,h5,h6,span{
         display: grid;
         grid-template-columns: 300px 1fr;
         padding:20px;
+        border-radius: 10px;
      }
     .card-wide{
         background:#cabba8;
@@ -226,12 +227,31 @@ aside .menu h2 {
 
 }
 table{
-    border:1px solid black;
-    width:100%
+    padding: 10px;
+    border-collapse: collapse;
+    border-radius: 10px;
 }
-td{ width:100px;
-    border:1px solid red
+td{ 
+    width:200px;
+    padding: 10px;
 }
+
+tbody tr:nth-child(even){background:#e1e1e1}
+tbody tr:nth-child(odd){background:#e5e5e5}
+td:nth-child(5){width:500px;
+text-align: left;
+}
+thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
+/*
+#f0dbc0; //light orange
+#95a3bd // light blue
+#9b8a9c // light purple
+#a1b2a2 // lightgreen
+#cabba8 // very light brown
+#cabba8 // ablout background
+#333333; about content font
+#424242 blog content color
+*/
 .f-w{
  display: block;   
 }
@@ -246,10 +266,17 @@ td{ width:100px;
    
     body
     .container-flued{
-        min-height:500px;
+        min-height:auto;
     }
     .banner{
         grid-template-columns: 1fr;
+    }
+    .blog-container .banner-featured{
+        margin:20px;
+       
+    }
+    .article-heading h1{
+        font-size: 30px;
     }
     .banner .gif{
         width: 120px;
