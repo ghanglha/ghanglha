@@ -266,10 +266,18 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
    
     body
     .container-flued{
-        min-height:auto;
+        max-height:200px;
     }
     .banner{
-        grid-template-columns: 1fr;
+        grid-template-columns: 60% 40%;
+    }
+    .banner-title h1{
+        line-height: 30px;
+        padding: 10px
+    }
+    .banner-title p{
+        padding:5px;
+        line-height: 20px;
     }
     .blog-container .banner-featured{
         margin:20px;
@@ -279,16 +287,17 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
         font-size: 30px;
     }
     .banner .gif{
-        width: 120px;
-        position: absolute;
-        top: 310px;
-        right: 6px;
+        width: 150px;
+        
+        
         filter: drop-shadow(1px 0px 3px #222);
     }
 
     .banner .qr-code{
-        width:40px;
-        height:40px;
+        width:100px;
+        height:100px;
+        padding:10px;
+        margin:0px auto;
     }
     .card-wide{
         grid-template-columns: 1fr;
@@ -296,7 +305,7 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
     .container .menu-box {
         display: grid;
         grid-template-columns: 1fr;
-        padding: 30px;
+        padding: 0px;
     }
         /* Article responsive */
         section{
@@ -308,5 +317,8 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
         padding:10px;
       }
     
-      .container{width:100vw}
+      .container{width:95vw}
+      .bio{
+        padding:0px;
+      }
   }
