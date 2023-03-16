@@ -1,7 +1,7 @@
 ---
 layout: post-full-width
 title: Tibetan Women Writer
-category: tech
+category: highlights
 excerpt: test excerpt
 ---
 |མིང་།|སྡེ་ཚན།|སྐད་ཡིག|སྡོད་ཡུལ།|ཡོངས་གྲགས་ཀྱི་ལས་ཀ།|འབྲེལ་ཐག|

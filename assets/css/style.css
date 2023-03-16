@@ -26,7 +26,9 @@
 h1,h2,h3,h4,h5,h6,span{
     color:#95a3bd;
 }
-
+p{
+    padding: 5px;
+}
 
         body{width:100vw;
             margin:0px auto;
@@ -34,7 +36,7 @@ h1,h2,h3,h4,h5,h6,span{
             
         }
         .container-flued{
-            height:500px;
+            height:350px;
             background:url(/assets/icons/grassland.jpg);
             background-position-y:center;
           
@@ -59,22 +61,22 @@ h1,h2,h3,h4,h5,h6,span{
         color:white;
         font-family: qo-chuyig;
         text-align: center;
-        font-size: 20vw;
+        font-size: 10vw;
         margin:0px;
         padding:0px;
-        line-height:100px;
+        line-height:50px;
         text-shadow: 1px 1px 10px black;;
     }
    
     .banner .gif{
-        width:400px
+        width:250px
     }
     .banner .qr-code{
         background-image: url(/assets/icons/qr-code.jpg);
         background-size: cover;
-        width: 100px;
-        height:100px;
-        padding: 90px;
+        width: 200px;
+        height:200px;
+        
         margin:30px auto;
         border-radius: 10px;
     }
@@ -137,12 +139,16 @@ h1,h2,h3,h4,h5,h6,span{
     }
     .card-wide p{
         font-size: 20px;
-    color: #333333;
-    tex
+        color: #333333;
+   
     }
     .card-wide h2{
         padding: 20px;
         color:white;
+    }
+    .card a{
+        text-decoration: none;
+        color: #333333
     }
     .bio{
         margin-top:30px;
@@ -151,6 +157,24 @@ h1,h2,h3,h4,h5,h6,span{
     .footer{
         height:200px
     }
+
+.grid-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    margin:10px;
+
+}
+.card{
+  margin:10px;
+
+}
+.card img{border-radius: 5px;
+        height: 200px;
+}
+.card h1{padding-top:10px;}
+
+
+
 
 /* --------------------- blog and page section ------- */
 .blog-container{
@@ -321,4 +345,12 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
       .bio{
         padding:0px;
       }
+
+
+    .grid-3{
+    display: grid;
+    grid-template-columns: 1fr  ;
+    margin:10px;
+
+}
   }

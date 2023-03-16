@@ -1,105 +1,77 @@
 ---
 layout: post
-title: Lantern for Android
-category: team
-excerpt: test excerpt
+title: ཨན་ཌོ་ཁ་པར་ཆེད་ལྒང་བཞུ་རྟོག་བཟོས་སྒེར་དྲ།
+category: tools
+excerpt: རྩོམ་ཡིག་འདིའི་ནང་དུ། རང་ཉིད་དྲ་མྱུལ་བྱེད་སྐབས་སེམས་འཚབ་བྱུང་བའི་གནད་དོན་ཁག་ཅིག་གླེང་འདོད། ང་ཚོས་དྲ་སྟེང་དུ་གནས་ཚུལ་མང་པོ་ཞིག་བརྗེ་ལེན་དང་བརྒྱུད་སྐུར་བྱེད་ཀྱི་ཡོད་ལ།
+featured-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSizg4-v8PYK5wEi-BNkEOMc9g5h1OQC0VULQ&usqp=CAU
 ---
-In this post, I want to share with you some concerns that I always have when I indulge myself online. With so much information being shared and exchanged on the internet, and so many with the power or skills to access this information, am I giving up too much of myself? Am I sacrificing my privacy over the convenience of getting everything done with a click on the internet? Can I protect myself and the information I share on the internet?
 
-The answer is Yes! We can use the internet to seek information, for online banking, use social media, watch videos, communicate with family and friends, do virtual shopping, and everything else we can online and yet protect our privacy. The solution is, Virtual Private Network VPN.
+རྩོམ་ཡིག་འདིའི་ནང་དུ། རང་ཉིད་དྲ་མྱུལ་བྱེད་སྐབས་སེམས་འཚབ་བྱུང་བའི་གནད་དོན་ཁག་ཅིག་གླེང་འདོད། ང་ཚོས་དྲ་སྟེང་དུ་གནས་ཚུལ་མང་པོ་ཞིག་བརྗེ་ལེན་དང་བརྒྱུད་སྐུར་བྱེད་ཀྱི་ཡོད་ལ། སྲིད་གཞུང་དང་བཟོ་ལས་ཁང་སོགས་ལ་གནས་ཚུལ་དེ་དག་གི་ནང་དོན་ལ་ལྐོག་ལྟ་བྱེད་པའི་ནུས་པ་ཡོད་ལ། དྲ་ཇག་ཚོར་ཡང་དེ་མཚུངས་ཀྱི་འཇོན་ཐང་དང་ལག་རྩལ་ཡོད།  མཛུབ་གནོན་ཐེངས་གཅིག་གིས་དྲ་སྟེང་དུ་ཡོད་ཚད་རག་ཏུ་འཇུག་ཐུབ་པའི་གོ་རིམ་དེའི་ཁྲོད་དུ། ང་ཚོས་སོ་སོའི་སྒེར་གྱི་གསང་རྒྱ་བློས་གཏོང་བྱེད་ཀྱི་མེད་དམ། 
 
-## What is Virtual Private Network (VPN)?
+དེ་ན། ང་ཚོས་རང་ཉིད་ཀྱི་ངོ་བོ་དང་དྲ་སྟེང་དུ་བརྒྱུད་གཏོང་བྱས་པའི་གནས་ཚུལ་ཁག་སྲུང་སྐྱོབ་བྱེད་ཐུབ་བམ་ཞེ་ན། སྲུང་སྐྱོབ་བྱེད་ཐུབ་བོ།།
 
-**VPN** as the name suggests provides a private network while using the internet. 
+ང་ཚོས་དྲ་རྒྱ་བཀོལ་ཏེ། དྲ་སྟེང་དུ་ཆ་འཕྲིན་བསྡུ་ལེན་དང་། དྲ་ཐོག་ཏུ་དངུལ་གཏོང་ལེན། སྤྱི་ཚོགས་དྲ་བ་བཀོལ་སྤྱོད། དྲ་བརྙན་ལ་ལྟ་བ། གྲོགས་པོ་དང་ནང་མི་ལ་ཁ་བརྡ། དྲ་ལམ་དུ་ཉོ་ཚོང་སོགས་བྱེད་སྒོ་སྣ་ཚོགས་ཤིག་རྩོམ་ཐུབ་ལ། དེ་དང་དུས་མཚུངས་སུ་རང་ཉིད་མི་་སྒེར་གྱི་གསང་རྒྱ་སྲུང་སྐྱོབ་བྱེད་ཐུབ། 
+རང་ཉིད་ཀྱི་གསང་རྒྱ་སྲུང་སྐྱོབ་བྱེད་ཐབས་ཀྱི་ལམ་ཁ་ནི་རྟོག་བཟོས་སྒེར་དྲ་ཡིན།
 
-The internet itself is like an open highway where we can see every traffic passing through. With VPN, you will still be driving on the highway, but you get to drive through a separate tunnel and the only thing people can see is the tunnel from outside and not you.
-
-![](/assets/images/lantern-1.jpg)
-
-## Why do I recommend you use VPN?
-
-### Encryption
-
-One of the key features of a VPN is that it encrypts your presence online. This makes it impossible for your internet service provider to see what website you are visiting or what information you are sharing on the internet. Only you (your device) and your VPN service provider have the key to decrypt. This is why it is very important to choose the right VPN provider. 
-
-### Protects Data
-	
-Encryption allows you to protect all information you acquire or share on the internet, including online communications. This prevents cybercriminals, your internet service provider (ISP) such as China Mobile, China Telecom, China Unicom, etc., individuals who have access to the Local Area Network (LAN) which is the router at your company, school, office, library, cyber cafe, etc. that provides internet service through cable or WiFI, and the government who has the authority to get user information from both the ISP and your Local Area Network.
-
-Even when you are using an already secure website where you enter your personal information including your username, password, phone number, banking information, etc. using VPN will provide an extra layer of protection.
-
-### Hide Location
-	
-VPN hides your location from the website or platform service provider. When visiting a website through an open internet, the website service providers can see where you are. But with VPN, they will only see the location of the VPN server. Also, your internet service provider can only see your connection with the VPN and not the website or platform you are visiting or using.
-
-### Access censored content and platforms
-
-Since using VPN acts as a proxy between you and the website you want to visit, or the platform you want to use, you are able to access any content or platforms online. VPN allows you to bypass censorship. But know, that VPN does not provide you anonymity so if you use untrustworthy VPNs you can access censored content but you may still be compromised.
+རྟོག་བཟོས་སྒེར་དྲ།
+རྟོག་བཟོས་སྒེར་དྲས། དྲ་རྒྱ་བཀོལ་སྤྱོད་བྱེད་པའི་སྐབས་སུ་ཁྱེད་ལ་སྒེར་གྱི་དྲ་བ་ཞིག་མཁོ་སྤྲོད་བྱེད་ཀྱི་ཡོད། 
+དྲ་རྒྱ་ནི་རླངས་འཁོར་བརྒྱ་ཕྲག་མང་པོ་ཕར་འགྲོ་ཚུར་འོང་བྱ་སའི་་མྱུར་བགྲོད་གཞུང་ལམ་ཞིག་དང་མཚུངས་ལ། རྟོག་བཟོས་སྒེར་དྲ་བཀོལ་སྤྱོད་བྱེད་པ་ནི། གཞུང་ལམ་དེའི་སྟེང་གི་ཕུག་ལམ་གཞན་པ་ཞིག་གི་ནང་དུ་རླངས་འཁོར་གཏོང་བ་འདྲ་བས། གཞན་གྱིས་ཞིབ་ལྟ་བྱེད་དུས་ཕུག་ལམ་མཐོང་བ་མ་གཏོགས། ཕུག་ལམ་དེའི་ནང་དུ་འཛུལ་ཚར་བའི་ཁྱེད་རང་མཐོང་མི་ནུས།  
 
 
-## Why Lantern VPN?
-Lantern browsing tool that  VPN is a simple and easy-to-use platform that has a good track record. It also has a free version for up to 500MB per month available for those who need it once in a while and you have the option to upgrade for about ¥ 430/- a year (for one-time payment) and around ¥ 36 per month (for a monthly subscription).
+## རྟོག་བཟོས་སྒེར་དྲ་བཀོལ་སྤྱོད་བྱེད་དོན་གང་ཡིན།
 
-Their servers are based in US and India.
 
-### Where to download Lantern?
-Since most trusted VPNs are not accessible in Chinese app stores, Android users have the option to sideload from the developer’s website or trusted third-party sources directly.
-For iOS users, since the government prohibits almost all trusted VPNs from the App Store, and Apple does not allow sideloading, there is little to no option available at the moment unless Apple opens itself up for such flexibility.
+### གསང་སྡོམ། 
 
-You can download lantern directly from the developers here [lantern](https://s3.amazonaws.com/lantern/lantern-installer.apk)
+རྟོག་བཟོས་སྒེར་དྲའི་ཁྱད་ཆོས་གཙོ་བོ་ཞིག་ནི། ཁྱེད་ཀྱི་དྲ་ཐོག་གི་བྱེད་སྒོ་ཁག་གསང་སྡོམ་བྱེད་ཀྱི་ཡོད་པ་དེ་ཡིན། ཁྱད་ཆོས་དེའི་དབང་གིས། ཁྱེད་ཀྱིས་དྲ་ཚིགས་གང་དག་ལྟ་ཀློག་བྱས་ཡོད་མེད་དང་། ཁྱེད་ཀྱིས་ཡིག་ཆ་གང་ཞིག་བརྒྱུད་གཏོང་བྱས་ཡོད་མེད་དྲ་བའི་ཞབས་ཞུ་མཁོ་སྤྲོད་བྱེད་མཁན་གྱིས་རྩ་བ་ནས་མཐོང་མི་ཐུབ་པ་བཟོ་གི་ཡོད། ཁྱེད་རང་དང་རྟོག་བཟོས་སྒེར་དྲའི་ཞབས་ཞུ་མཁོ་སྤྲོད་མཁན་གཉིས་ཀར་མ་གཏོགས་གསང་གྲོལ་གྱི་ལྡེ་མིག་མེད། དེར་བརྟེན། རྟོག་བཟོས་སྒེར་དྲའི་ཞབས་ཞུ་མ་ནོར་བ་ཞིག་འདེམས་རྒྱུ་གལ་ཆེ། 
 
-## How to install and use Lantern?
+གཞི་གྲངས་སྲུང་སྐྱོབ། 
+གསང་སྡོམ་གྱིས་ཁྱེད་ལ་དྲ་སྟེང་དུ་བསྡུ་ལེན་དང་བརྒྱུད་གཏོང་བྱས་པའི་གནས་ཚུལ་རིགས་སྲུང་སྐྱོབ་བྱེད་དུ་འཇུག་གི་ཡོད་ལ། དེའི་ཁོངས་སུ་དྲ་ལམ་གྱི་འབྲེལ་མཐུད་ཀྱང་ཚུད་ཀྱི་ཡོད། གསང་སྡོམ་བྱས་ཡོད་པའི་རྒྱུ་མཚན་གྱིས། ཁྱད་ཆོས་དེས་ཀྲུང་གོ་འགུལ་འཕྲིན། ཀྲུང་གོ་གློག་འཕྲིན། ཀྲུང་གོ་སྦྲེལ་འཕྲིན་སོགས་དྲ་བའི་ཞབས་ཞུ་མཁོ་སྤྲོད་མཁན་དང་། དྲ་ཇག  ད་དུང་འཛད་སྤྱོད་པའི་ཆ་འཕྲིན་སྤྱོད་པར་དབང་ཆ་ཡོད་མཁན་གྱི་སྲིད་གཞུང་སོགས་བཀག་འགོག་བྱས་ཏེ། ཁྱེད་ཀྱི་དྲ་བའི་ལམ་ཁའི་ནང་དུ་ལྐོག་འཛུལ་བྱེད་མ་ཐུབ་པ་བཟོ་གི་ཡོད། 
+ཁྱེད་ཀྱིས་དྲ་ཚིགས་བརྟན་པོ་ཞིག་གི་སྟེང་དུ། ཁྱེད་ཀྱི་མིང་དང་། གསང་གྲངས། ཁ་པར་ཨང་གྲངས། དངུལ་ཁང་གི་ཨང་གྲངས་སོགས་ཡར་འཇུག་བྱེད་སྐབས། རྟོག་བཟོས་སྒེར་དྲ་བཀོལ་ན། དེས་ཁྱེད་ལ་བདེ་འཇགས་ཀྱི་རིམ་པ་འཕར་མ་ཞིག་སྤྲོད་ངེས།
 
-Downloading Lantern from 
+སྡོད་གནས་སྦ་གསང་།
+རྟོག་བཟོས་སྒེར་དྲས་ཁྱེད་ཀྱི་སྡོད་གནས་གང་ཡིན་མིན་ཁྱེད་ཀྱིས་ལྟ་ཀློག་བྱ་སའི་དྲ་ཚིགས་ཁག་དང་། ཁྱེད་ཀྱི་དྲ་བའི་ཞབས་ཞུ་མཁོ་སྤྲོད་མཁན་ལ་མཐོང་དུ་མི་འཇུག ཁྱེད་ཀྱིས་རྒྱུན་ལྡན་གྱི་དྲ་རྒྱ་བཀོལ་ཏེ་དྲ་ཚིགས་ཤིག་ལྟ་ཀློག་བྱེད་སྐབས། དྲ་ཚིགས་གང་དེའི་ཞབས་ཞུ་མཁོ་སྤྲོད་བྱེད་མཁན་གྱིས་ཁྱེད་རང་གང་དུ་ཡོད་མེད་ཤེས་ཐུབ། འོན་ཀྱང་། རྟོག་བཟོས་སྒེར་དྲ་བཀོལ་སྐབས། ཁོང་ཚོས་ཁྱེད་ཀྱི་བཀོལ་བཞིན་པའི་རྟོག་བཟོས་སྒེར་དྲའི་དྲ་བའི་ཞབས་ཞུ་ཆས་ཀྱི་ས་གནས་མཐོང་གི་ཡོད། 
+ཁྱེད་ཀྱིས་དྲ་བའི་ཞབས་ཞུ་མཁོ་སྤྲོད་བྱེད་མཁན་གྱིས་ཁྱེད་རང་རྟོག་བཟོས་སྒེར་དྲ་ཞིག་ལ་མཐུད་ཡོད་པ་མ་གཏོགས། ཁྱེད་ཀྱིས་དྲ་ཚིགས་དང་དྲ་ཐོག་གི་སྡིངས་ཆ་གང་དག་ལ་ལྟ་ཀློག་བྱེད་ཀྱི་ཡོད་མེད་མཐོང་མི་ཐུབ། 
 
-![](/assets/images/lantern-2.jpg)
 
-How to download & Install on Android
-If you do not have access to the Play Store, you can install Lantern directly from the two websites mentioned above. Here is a guide to download Lantern from one of the websites to your Android phone:
+བཀག་སྡོམ་བྱས་ཡོད་པའི་ཆ་འཕྲིན་དང་དྲ་ལམ་གྱི་སྡིངས་ཆ་ཁག་སྤྱོད་ཐུབ།
+རྟོག་བཟོས་སྒེར་དྲས་བར་མི་ལྟ་བུའི་ངོ་བོའི་ཐོག་ཁྱེད་རང་དང་ཁྱེད་ཀྱིས་ལྟ་ཀློག་བྱ་སའི་དྲ་ཚིགས་དང་། ཁྱེད་ཀྱིས་བཀོལ་སྤྱོད་བྱ་སའི་སྡིངས་ཆ་སོགས་ཀྱི་བར་དུ་དྲ་བའི་ལམ་ཁ་དམིགས་བསལ་ཞིག་བསྐྲུན་གྱི་ཡོད་སྟབས། ཁྱེད་ཀྱིས་དྲ་ཐོག་གི་ཆ་འཕྲིན་ཡོད་དོ་ཅོག་ལ་ལྟ་ཀློག་བྱེད་ཐུབ་པ་མ་ཟད། དྲ་སྟེང་གི་སྡིངས་ཆ་ཡོངས་རྫོགས་བཀོལ་ཐུབ། རྟོག་བཟོས་སྒེར་དྲས་ཁྱེད་རང་དྲ་རྒྱ་བཀག་སྡོམ་ལ་གཡོལ་དུ་འཇུག  འོན་ཀྱང་། ཤེས་དགོས་པ་ཞིག་ལ། ཁྱེད་ཀྱིས་ངོ་བོ་སྦ་གསང་བྱེད་མི་ཐུབ་པས། ཚད་ལྡན་མིན་པའི་རྟོག་བཟོས་སྒེར་དྲ་བཀོལ་ན། ཁྱེད་ཀྱིས་ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཁག་ལ་ལྟ་ཐུབ་ངེས་ཀྱང་། སོ་སོའི་བདེ་འཇགས་ཤོར་བའི་ཉེན་ཁ་ཆེ། 
+
+
+ལྒང་བཞུ་སྒེར་བཟོས་སྒེར་དྲ་བཀོལ་དགོས་དོན་གང་ཡིན།
+ལྒང་བཞུ་ནི་སྤྱོད་བདེ་བ་མ་ཟད། རྙོག་གླེང་གང་ཡང་མེད་པའི་རྒྱལ་སྤྱིའི་ནང་གི་མཉེན་ཆས་ཚད་ལྡན་ཞིག་ཡིན། མཉེན་ཆས་དེ་ལ་རིམ་པ་གཉིས་ཡོད་དེ། རིམ་པ་དང་པོ་དེ་རིན་མེད་ཡིན། ཟླ་རེརེ་རིན་མེད་ཀྱིས་ཐོག་ནས་དྲ་རྒྱ་500MB ཙམ་བཀོལ་ཆོག  གལ་ཏེ། ཁྱེད་ཀྱིས་ཚད་བཀག་གང་ཡང་མེད་པའི་ཐོག་ནས་དྲ་རྒྱ་སྤྱོད་འདོད་ཚེ། མཉེན་ཆས་འདིའི་ནང་གི་རིམ་པ་མཐོ་བ་དེར་ཟླ་རེརེ་དམངས་སྒོར་¥ 430/-ཙམ་སྤྲད་དེ་ཉོས་ཆོག   མཉེན་ཆས་འདིའི་དྲ་བའི་ཞབས་ཞུ་ཆས་ཨ་རི་དང་རྒྱ་གར་ན་ཡོད།
+ལྒང་བཞུ་གང་ནས་ཕབ་ལེན་བྱེད་དགོས། 
+
+རྒྱལ་ནང་གི་ཀུ་ཤུ་བིམ་མཛོད་ནང་དུ་ཚད་ལྡན་གྱི་རྟོག་བཟོས་སྒེར་དྲ་གང་ཡང་མི་རྙེད། ཨན་ཌོ་ཁ་པར་བཀོལ་མཁན་ཚོས་མཉེན་ཆས་བཟོ་སྐྲུན་བྱེད་མཁན་གྱི་དྲ་ངོས་ནས་ཚད་ལྡན་གྱི་མཉེན་ཆས་རིགས་ཐད་ཀར་ཕབ་ལེན་བྱེད་ཐུབ། ཀུ་ཤུ་བཟོ་ཚོང་ཁང་གི་ཐག་གཅོད་ལ་འགྱུར་བ་མ་ཕྱིན་བར་དུ། ཁ་པར་སྤྱོད་མཁན་ཚོར་ཕབ་ལེན་གྱི་གདམ་ག་མེད། གང་ཡིན་ཞེ་ན། སྲིད་གཞུང་གིས་བཀག་འགོག་བྱེད་ཀྱི་ཡོད་པས་སོ།།
 
 ཨན་ཌོ་ཁ་པར་ནང་དུ་ཕབ་ལེན་དང་ནང་འཇུག་བྱེད་སྟངས། 
 
 གོ་རིམ་དང་པོ། གོ་རིམ་དང་པོ། ཁྱེད་ཀྱི་ཁ་པར་སྟེང་གི་དྲ་རྒྱ་བཤེར་ཆས་ཀྱི་ནང་དུ། གཤམ་གྱི་དྲ་ཚིགས་འདིའི་ཁ་བྱང་གཏགས་དགོས།
-[https://s3.amazonaws.com/loklad.com/lantern.html ](https://s3.amazonaws.com/loklad.com/lantern.html)
+[https://s3.amazonaws.com/loklad.com/lantern.html](https://s3.amazonaws.com/loklad.com/lantern.html)  
 
-
-Step 1: Open your web browser and Enter the url - 
-[https://s3.amazonaws.com/loklad.com/lantern.html](https://s3.amazonaws.com/loklad.com/lantern.html)
-
-Step 2: You can change Language preference at the top right screen of a web page.
 གོ་རིམ་གཉིས་པ། དྲ་ངོས་གཡས་ཀྱི་སྟེང་ཕྱོགས་ནས་རང་གི་འདོད་མོས་ལྟར་སྐད་ཡིག་བརྗེ་ཆོག
 
 ![](/assets/images/lantern-3.jpg)
-Step 3. Click on the “Download Now” button.  
+
 གོ་རིམ་གསུམ་པ། ཕབ་ལེན་གྱི་ཐོག་ཏུ་ནོན།
-
 ![](/assets/images/lantern-4.jpg)
-Step 4. A popup will appear as shown above, here click on “Android” and it will take you to the next page.  
-གོ་རིམ་བཞི་པ། འཆར་ངོས་སུ་ཡིག་སྒམ་ཞིག་མངོན་ཡོང་ངེས་ལ། དེའི་ནང་གི་ “Android”ཐོག་ལ་མནན་ཚེ། འཆར་ངོས་རྗེས་མ་ལ་འཁྲིད་ངེས།
 
+གོ་རིམ་བཞི་པ། འཆར་ངོས་སུ་ཡིག་སྒམ་ཞིག་མངོན་ཡོང་ངེས་ལ། དེའི་ནང་གི་ “Android”ཐོག་ལ་མནན་ཚེ། འཆར་ངོས་རྗེས་མ་ལ་འཁྲིད་ངེས། 
 ![](/assets/images/lantern-5.jpg)
 
-Step 5. Here click “OK” and download will start.  
 གོ་རིམ་ལྔ་པ། “OK” ཐོག་ལ་མནན་ཚེ། ཕབ་ལེན་འགོ་འཛུགས་བྱེད་ངེས།
 
 ![](/assets/images/lantern-6.jpg)
-Step 6. Here click “Open” and a pop up will appear.  
+
 གོ་རིམ་དྲུག་པ། “打开”ཁ་འབྱེད་ཀྱི་ཐོག་ལ་མནན་ཚེ། ཡིག་སྒམ་གསར་པ་མངོན་ཡོང་ངེས།
 
 ![](/assets/images/lantern-7.jpg)
-Step 7. Click “Settings” and a pop up will appear.  
 གོ་རིམ་བདུན་པ།“设置” ་སྒྲིག་འགོད་ཀྱི་ཐོག་ལ་མནན་ཚེ། ཡིག་སྒམ་གསར་པ་ཞིག་ཁ་འབྱེད་ངེས། 
 
 ![](/assets/images/lantern-8.jpg)
-Step 8. Click “Allow from this source”.  
 གོ་རིམ་བརྒྱད་པ། གཡས་ཕྱོགས་སུ་འཐེན་ཏེ་ནང་འཇུག་གི་ཆོག་མཆན་སྤྲོད་དགོས། 
-
 ![](/assets/images/lantern-9.jpg)
-
-Step 9. Here click “INSTALL” and the application will be Installed on your device.  
 གོ་རིམ་དགུ་པ། 安装་ནང་འཇུག་གི་ཐོག་ལ་མནན་ཚེ། ནང་འཇུག་བྱེད་ངེས། 
-
 ![](/assets/images/lantern-10.jpg)
-Step 10. Here click “OPEN” and start using the application.  
-གོ་རིམ་བཅུ་པ།  打开 ཐོག་ལ་མནན་ཏེ་བཀོལ་སྤྱོད་བྱེད་འགོ་ཚུགས། 
 
+གོ་རིམ་བཅུ་པ།  打开 ཐོག་ལ་མནན་ཏེ་བཀོལ་སྤྱོད་བྱེད་འགོ་ཚུགས། 

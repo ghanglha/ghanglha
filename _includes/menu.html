@@ -2,28 +2,28 @@
     <div class="menu-box">
         
 
-        {% for post in site.categories.tools limit: 1 %}
+        {% for post in site.categories.online-space limit: 1 %}
         <div class="menu">
-            <a href="{{ post.url }}"><h2>འཇིག་ཉེན་ཀུན་བྲལ་དྲ་རྒྱའི་འཇིག་རྟེན།</h2> 
+            <a href="/blog/{{post.category}}"><h2>འཇིག་ཉེན་ཀུན་བྲལ་དྲ་རྒྱའི་འཇིག་རྟེན།</h2> 
                 <div class="overlay"></div>        
                 <img src="/assets/icons/1.jpg" alt="/assets/icons/1.jpg"></a>
         </div>
         {% endfor %}
-        {% for post in site.categories.tech limit: 1 %}
+        {% for post in site.categories.tools limit: 1 %}
         <div class="menu">
-            <a href="{{ post.url }}"><h2>འཇིག་ཉེན་ཀུན་བྲལ་དྲ་རྒྱའི་འཇིག་རྟེན།</h2></a>
+            <a href="/blog/{{post.category}}"><h2>ཐོལ་བརྒལ་མངོན་འགྱུར་དྲ་བའི་མྱོང་ཚོར།</h2></a>
             <img src="/assets/icons/2.jpg" alt="/assets/icons/1.jpg">
         </div>
         {% endfor %}
-        {% for post in site.categories.team limit: 1 %}
+        {% for post in site.categories.women limit: 1 %}
         <div class="menu">
-           <a href="{{ post.url }}"> <h2>འཇིག་ཉེན་ཀུན་བྲལ་དྲ་རྒྱའི་འཇིག་རྟེན།</h2></a>
+           <a href="/blog/{{post.category}}"> <h2>མཐོང་བ་ཀུན་སྨོན་སྐྱེས་མའི་གྲུ་ཟུར།</h2></a>
             <img src="/assets/icons/3.jpg" alt="/assets/icons/1.jpg">
         </div>
         {% endfor %}
-        {% for post in site.categories.culture limit: 1 %}
+        {% for post in site.categories.highlights limit: 1 %}
         <div class="menu">
-            <a href="{{post.url}}"><h2>འཇིག་ཉེན་ཀུན་བྲལ་དྲ་རྒྱའི་འཇིག་རྟེན།</h2></a>
+            <a href="/blog/{{post.category}}"><h2>དབུ་འཕང་ཡར་བསྟོད་བོད་ཀྱི་སྐྱེས་མ།</h2></a>
             <img src="/assets/icons/4.jpg" alt="/assets/icons/1.jpg">
         </div>
         {% endfor %}

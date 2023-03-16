@@ -2,6 +2,9 @@
 layout: post
 title: Soccer
 subtitle: Best sport ever!
+category: tools
+excerpt: རྩོམ་ཡིག་འདིའི་ནང་དུ། རང་ཉིད་དྲ་མྱུལ་བྱེད་སྐབས་སེམས་འཚབ་བྱུང་བའི་གནད་དོན་ཁག་ཅིག་གླེང་འདོད། ང་ཚོས་དྲ་སྟེང་དུ་གནས་ཚུལ་མང་པོ་ཞིག་བརྗེ་ལེན་དང་བརྒྱུད་སྐུར་བྱེད་ཀྱི་ཡོད་ལ།
+featured-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmYRGU3uvyFK61LimOXhWbqMll8dMzik6hg&usqp=CAU
 ---
 
 From Wikipedia:

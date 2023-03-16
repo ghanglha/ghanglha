@@ -6,7 +6,7 @@
                 <h1>གང་ལྷ་</h1> 
                 <div class="qr-code">              
                 </div>
-                <p>Welcome to our Ghanglha program..</p>
+                <p>Ghanglha</p>
             </div>
             <img class="gif" src="/assets/icons/ghanglha-animation.gif" alt="">
         </div>

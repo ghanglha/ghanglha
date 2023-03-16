@@ -11,8 +11,7 @@
     <section class="f-w">
         <article>
            {{content}}
-        </article>
-            
+        </article>     
     </section>
     </div>
 {% include foot.html %}

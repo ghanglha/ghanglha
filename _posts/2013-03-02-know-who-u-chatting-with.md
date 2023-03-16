@@ -1,25 +1,9 @@
 ---
 layout: post
-title: Lantern for Android
-category: tools
+title: སྐད་འཕྲིན་ཀྱི་བདེ་འཇགས།
+category: online-space
 excerpt: test excerpt
 ---
-
-- Don’t share your phone number
-  - Don’t share your personal phone number with anyone on WeChat
-  - Don’t use your phone number as your WeChat username
-  - Hide your phone number from your profile
- 
-- Don’t share your personal information
-  - Hide your WeChat ID
-  - Don’t make your personal information public including your address.
-  - Don’t share your banking information
-
-- Don’t share the WeChat verification code with anyone
-  - This will give intruders access to your WeChat account and all accounts connect to your WeChat including Red Pocket
-
-- Don’t scan suspicious QR codes
-  - No one will give you money for free. If you see someone share a QR code that transfers free money to you, don’t scan it. It may empty your Red Pocket.
 
 - སྐད་འཕྲིན་ཀྱི་བདེ་འཇགས།
   - ཞལ་པར་ཨང་གྲངས་མཉམ་སྤྱོད་བྱེད་མི་ཉན།

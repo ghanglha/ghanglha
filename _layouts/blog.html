@@ -1,0 +1,24 @@
+{% include head.html %}
+    <div class="container-flued blog-container">
+        <div class="banner-featured">
+            <div class="banner-title article-heading">
+                <h1>Category Title Here</h1>
+                <span>10/14/2023</span>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+    <section class="grid-3">
+      {% for post in site.categories.tools limit: 10 %}
+        <div class="card">
+            <a href="#">
+                <img src="{{post.featured-image}}" alt="">
+                <h1>{{post.title}}</h1>
+                <p>{{post.excerpt}}</p>
+            </a>
+            <span><p>{{post.date | date_to_string }}</p></span>
+        </div>
+      {% endfor %} 
+    </section>
+    </div>
+{% include foot.html %}
