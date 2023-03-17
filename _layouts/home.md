@@ -16,4 +16,3 @@
 
 {% include about.html %}
 
-{% include foot.html %}
