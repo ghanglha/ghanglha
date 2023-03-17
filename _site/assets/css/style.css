@@ -360,7 +360,9 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
       article{
         padding:10px;
       }
-    
+    article a{
+        font-size: 13px
+    }
       .container{width:95vw}
       .bio{
         padding:0px;
