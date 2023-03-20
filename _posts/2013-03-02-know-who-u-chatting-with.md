@@ -2,7 +2,7 @@
 layout: post
 title: སྐད་འཕྲིན་ཀྱི་བདེ་འཇགས།
 category: online-space
-excerpt: test excerpt
+excerpt: སྐད་འཕྲིན་ཀྱི་བདེ་འཇགས།
 featured-image: /assets/images/wechat-banner.jpg 
 ---
 

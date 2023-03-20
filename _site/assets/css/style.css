@@ -184,7 +184,7 @@ p{
     border-radius: 50%;
     background-repeat: no-repeat;
     background-image:url(/assets/icons/home.png);
-    background-size: 40px 40px;
+    background-size: 50px 50px;
     background-position:center;
     box-shadow: 0px 0px 4px #363636;        
 
@@ -230,11 +230,11 @@ article img{
 }
 .grid-4 div{
     box-shadow: 0px 0px 4px lightgray;
-    padding: 10px
+  
 }
 .grid-4 span{
     padding-right:30px;
-    
+
 }
 
 article span{
