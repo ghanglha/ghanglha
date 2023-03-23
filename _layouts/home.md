@@ -3,7 +3,7 @@
     <div class="container-flued">
         <div class="banner">
             <div class="banner-title">
-                <h1>གང་ལྷ་</h1> 
+                <h1>གངས་ལྷ་</h1> 
                 <div class="qr-code">              
                 </div>
                 <p>Ghanglha</p>
