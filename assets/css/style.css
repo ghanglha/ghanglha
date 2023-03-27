@@ -381,10 +381,10 @@ thead th{background:#f0dbc0; padding:10px; font-weight: 800;}
             grid-template-columns:1fr;
             max-width:100vw;
         }
-
-      article{
-        padding:10px;
-      }
+    .f-w article{
+      padding: 0px;  
+    }
+    
       article a{
         font-size: 13px;
       }
