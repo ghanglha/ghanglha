@@ -9,7 +9,7 @@ archive: དྲ་བའི་རྨི་ལམ་ཐོལ་བརྒལ་�
 <section class="grid-3">
       {% for post in site.categories.tools limit: 10 %}
         <div class="card">
-            <a href="{{post.url | absolute_url}}">
+            <a href="{{ post.url | absolute_url }}">
                 <img src="{{post.featured-image}}" alt="">
                 <h1>{{post.title}}</h1>
                 <p>{{post.excerpt}}</p>
