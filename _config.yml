@@ -14,6 +14,7 @@ collections:
   womens:
     output: true
 
+
 # Build settings
 markdown: kramdown
 kramdown:
