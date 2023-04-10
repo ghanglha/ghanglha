@@ -13,6 +13,8 @@ baseurl:  # the subpath of your site, e.g. /blog/
 collections:
   womens:
     output: true
+  pretraining:
+    output: true
 
 
 # Build settings
