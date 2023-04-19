@@ -228,8 +228,10 @@ article img{
     grid-template-columns: 20% 1fr;
     grid-gap: 10px
 }
-.grid-2 .writer-box{
-
+.writer-meta p{
+font-size: 15px;
+padding: 5px 10px;
+display: inline;
 
 }
 
@@ -237,7 +239,7 @@ article img{
 }
 
 .grid-2 span{
-    padding-right:20px;
+   padding-right: 5px;
     font-size: 20px;
     color:#95a3bd;
 }
