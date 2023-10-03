@@ -10,7 +10,7 @@ archive: དྲ་རྒྱའི་འཇིག་རྟེན་འཇིག�
       {% for post in site.categories.online-space limit: 10 %}
         <div class="card">
             <a href="{{post.url | absolute_url}}">
-                <img src="{{post.featured-image}}" alt="">
+                <img src="{{post.featuredImage}}" alt="{{post.featuredImage}}">
                 <h1>{{post.title}}</h1>
                 <p>{{post.excerpt}}</p>
                
