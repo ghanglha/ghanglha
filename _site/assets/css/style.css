@@ -85,7 +85,11 @@ p{
         padding:20px;
         position: relative;
     }
-
+p strong{
+    background-color: lightgray ;
+    border-radius: 3px;
+    padding:3px 3px;
+}
     .menu h2{
      z-index: 1;
     position: absolute;
